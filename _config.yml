@@ -1,0 +1,14 @@
+layout_spectrum: 0.18828233960084617
+typography_spectrum: 0.918964130571112
+color:
+  brandStrength: 0.9108975681010634
+  lightness: 0.5755754318088293
+  saturation: 0.6248708537314087
+  rhythmicContrast: 0.4323102575726807
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: First Try
